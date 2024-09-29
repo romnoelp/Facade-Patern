@@ -11,6 +11,6 @@ public class HouseKeeping implements HotelService {
     }
 
     public void cleanRoom() {
-        System.out.println("Cleaning room number " + roomNumber);
+        System.out.println("Cleaning room number " + roomNumber + ".");
     }
 }
