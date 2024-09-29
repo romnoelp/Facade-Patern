@@ -1,4 +1,4 @@
-public class App {
+public class HotelApp {
     public static void main(String[] args) throws Exception {
         System.out.println("anotha one.");
     }
